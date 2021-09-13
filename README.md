@@ -1,7 +1,7 @@
 # YOLO-Darknet-TF-Learning
 YOLO Family Custom Object Detection Transfer Leaning Pipeline
 
-##Steps to follow
+## Steps to follow
 
 1. Create yolov4-tiny and training(inside yolov4-tiny) folders in your google drive
 2. Create & upload the files we need for training ( i.e. “obj.zip” , “yolov4-tiny-custom.cfg”, “obj.data”, “obj.names” and “process.py” ) to your drive
